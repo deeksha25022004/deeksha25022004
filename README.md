@@ -26,34 +26,11 @@
 
 ---
 
-## 🧪 Projects
-
-🔎 **LinkedIn Job Scraper**  
-→ Web-scraped jobs using Python, BeautifulSoup; automated pagination and saved results in Excel.
-
-📄 **Resume Analyzer using NLP**  
-→ Analyzed resumes using tokenization, keyword matching & NLP pipeline to evaluate ML job fit.
-
-🔁 **Customer Churn Prediction**  
-→ Used Random Forest, SVM, and Decision Trees to classify churn risks; visualized insights using Seaborn & Matplotlib.
-
----
-
 ## 🛠️ Skills & Tools
 
 - **Languages**: Python, Java (Basic), SQL  
 - **Libraries**: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, BeautifulSoup, OpenCV, Pillow  
 - **Tools**: Jupyter, Colab, MySQL Workbench, VS Code, Power BI, MS Excel, Streamlit
-
----
-
-## 📜 Certifications
-
-- Machine Learning – Internshala Trainings  
-- Data Science – Udemy  
-- Python Fundamentals – Great Learning Academy  
-- Intro to NumPy – Simplilearn  
-- Image Processing with MATLAB – Workshop
 
 ---
 
